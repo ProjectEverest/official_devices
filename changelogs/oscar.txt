@@ -1,0 +1,11 @@
+# EverestOS Version 1.2 (24-May-2024)
+
+- May SecurityPatch 
+- Synced with latest Everest Source 
+- Enabled battery cycle count from battery information
+- Switched to Everest launcher(Launcher 3)
+- Fixed Lockscreen Charging info
+
+Notes: 
+
+- Added Updater (from Next update You can Update From OTA or Local Update)
