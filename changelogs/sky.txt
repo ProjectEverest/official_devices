@@ -1,7 +1,13 @@
 Highlights & Device Specific Changes:
 Build type: OFFICIAL (Monthly)
 Device: Redmi 12 5g/Poco M6 Pro 5g (sky)
-Device maintainer: Ashwani_&_Dhanush
+Device maintainer:Dhanush
+
+=====================
+27th Aug,2024 
+=====================
+- synced with latest source
+- gcam added
 
 =====================
 14th July,2024 
