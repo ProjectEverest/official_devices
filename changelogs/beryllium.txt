@@ -1,0 +1,4 @@
+# EverestOS Version 1.5 (30-August-2024)
+
+- Initial A14 build
+- MiCam and Viper4fx included
