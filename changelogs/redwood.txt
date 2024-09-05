@@ -1,5 +1,13 @@
 ### Device side changelogs
 
+EverestOS 1.5 - Lukla
+- Switch To TURBO kernel
+- both panel are supported
+- Blobs updated to leatest
+- Xiaomi Dolby added
+- ksu,cam included
+- Many More
+
 EverestOS 1.2 - GOKYO 
 - Added sku prop for Proper Identification
 - Synced with latest Everest source changes
