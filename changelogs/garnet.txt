@@ -1,4 +1,28 @@
 ================
+# 12-09-2024
+================
+
+- Add touch improvements props
+- props: For smoother scrolling and better responsiveness
+- dolby: Add intelligent equalizer setting
+
+================
+# 27-08-2024
+================
+
+- Add foursemi audio configs
+- Allow agmservice and hal_audio to read smartpa_type
+- Enable the correct esepowermanager service
+- Sync vsync work duration with gs201
+- Build xiaomi-telephony-stub
+- Switch to QTI health HAL
+- Add Equalizer for XiaomiDolby
+
+# Notes :
+- Cleanflash recomended
+- Use latest firmware for your region
+
+================
 # 23-July-2024
 ================
 

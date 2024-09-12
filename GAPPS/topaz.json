@@ -1,14 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1722843857,
-      "size": 1870717346,
-      "filehash": "3b35dc5269873a55eaa510d5f83673cc",
-      "filename": "Everest-1.3-Tenzing-topaz-OFFICIAL-GAPPS-0805-20240805.zip",
-      "id": "0e5eb1cf0a7922a6b088e68773d3c548b2ae75a25c95146bc4e334b3d56be95b",
+      "datetime": 1726056523,
+      "size": 2188939491,
+      "filehash": "5be8682828bbb793065ada6a54fa0353",
+      "filename": "EverestOS-1.6-Lukla-EOL-topaz-OFFICIAL-GAPPS-1709-20240911.zip",
+      "id": "ae096e12562abee0024cd5970b591299924e6a44973cbaaa1a755bac8c0707e5",
       "romtype": "OFFICIAL",
-      "version": "1.3",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/topaz/Everest-1.3-Tenzing-topaz-OFFICIAL-GAPPS-0805-20240805.zip/download"
+      "version": "1.6",
+      "maintainer": "skwel",
+      "url": "https://sourceforge.net/projects/everestos-releases/files/topaz/EverestOS-1.6-Lukla-EOL-topaz-OFFICIAL-GAPPS-1709-20240911.zip/download"
     }
   ]
 }
